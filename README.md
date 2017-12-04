@@ -94,3 +94,7 @@ cd docker-elk
 ```
 
 ##### You can find the source file in producer/src directory
+
+### Now you can open your Kibana dashboard and you should see the following:
+
+<img width="1676" alt="image" src="https://user-images.githubusercontent.com/10232243/33532600-bbee678a-d879-11e7-9855-209b6b1f8795.png">
